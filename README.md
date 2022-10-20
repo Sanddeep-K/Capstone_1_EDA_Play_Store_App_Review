@@ -22,6 +22,7 @@ Components –
 10.	Conclusion
 
 
+
 Problem Statement –
 
 I had received a mandate from ABC Co. Ltd. That, company wants to build a successful Mobile App, which should be accepted by a huge customer base of Play Store and create a positive Brand Image among customers. It should be one of the Successful App on Play Store.
@@ -42,31 +43,54 @@ Approach –
 6.	Brief overview of Data Variables and their Relationship with each other
 7.	Identify Top 10 Performing : Genres | Categories | Apps
 8.	Analyze important factors  responsible for App engagement and success as below,
-•	Impact of Ratings on Installs 
-•	Content Rating wise Apps on play store (Free App & Paid App)
-•	Identify Top 3 Content Rating segments contributing most to the success of an App
-•	Top 3 Content rating segments giving best Ratings
-•	Prepare Annexures of Top 10 Apps preferred by each Top 3 Content Rating Segment
-•	Identify most preferred App Size in general and Content Rating segment wise
-•	Identify Top 5 Heavy (big size) App Categories
+
+    •	Impact of Ratings on Installs 
+    
+    •	Content Rating wise Apps on play store (Free App & Paid App)
+    
+    •	Identify Top 3 Content Rating segments contributing most to the success of an App
+    
+    •	Top 3 Content rating segments giving best Ratings
+    
+    •	Prepare Annexures of Top 10 Apps preferred by each Top 3 Content Rating Segment
+    
+    •	Identify most preferred App Size in general and Content Rating segment wise
+    
+    •	Identify Top 5 Heavy (big size) App Categories
+    
 9.	Correlation Analysis of all Quantitative Variables & their impact as below,
-•	Impact of App Updates on Size of the App
-•	Impact of Price on Size of the App
-•	App price trend analysis
-•	Identify Top 5 most accepted Android & Current Versions
-•	Analyze impact of Android & Current Versions on Reviews / Size / Price 
-•	Investigate Rating / Reviews / Size impact on each other
-•	Investigate Price / Rating / Last Update impact on each other
+
+    •	Impact of App Updates on Size of the App
+    
+    •	Impact of Price on Size of the App
+    
+    •	App price trend analysis
+    
+    •	Identify Top 5 most accepted Android & Current Versions
+    
+    •	Analyze impact of Android & Current Versions on Reviews / Size / Price 
+    
+    •	Investigate Rating / Reviews / Size impact on each other
+    
+    •	Investigate Price / Rating / Last Update impact on each other
+    
 10.	Correlation Analysis of Sentiment data variables & their impact as below,
-•	Investigate Distribution  of Sentiment Polarity and Subjectivity
-•	Content Rating wise sentiment analysis
-•	Analyze Sentiment Relation with Size / Install / rating / last Update
-•	Identify Top 10 – Most positive sentiment Genres | Categories |  Apps
+
+    •	Investigate Distribution  of Sentiment Polarity and Subjectivity
+    
+    •	Content Rating wise sentiment analysis
+    
+    •	Analyze Sentiment Relation with Size / Install / rating / last Update
+    
+    •	Identify Top 10 – Most positive sentiment Genres | Categories |  Apps
+    
 11.	Understand relation of Sentiment Polarity & Subjectivity
 12.	Understand Overall Translated Reviews and Sentiments through - Word Cloud
-13.	Conclusion
-•	Provided qualitative recommendations to App Making Management Team
-•	Technical Insights and specifications to App Development & Quality Team
+14.	Conclusion
+
+    •	Provided qualitative recommendations to App Making Management Team
+    
+    •	Technical Insights and specifications to App Development & Quality Team
 
 Conclusion – 
 
