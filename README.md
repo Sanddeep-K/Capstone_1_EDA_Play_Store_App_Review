@@ -1,4 +1,4 @@
-# Capstone_1_EDA_Play_Store_App_Review
+# Project Title : EDA of Play Store App Reviews
 
 Summary –
 
